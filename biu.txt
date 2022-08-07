@@ -42,7 +42,7 @@
 {"name":"解析3","url":"https://api.aoteman.tv/?url="}
 ],
 
-"dianshizhibo": "https://ihymn.coding.net/p/tv/d/bb/git/raw/master/zb.php",
+"dianshizhibo": "https://fastly.jsdelivr.net/gh/ihymn/mtv@master/zb.txt",
 
 "guolvdizhi": "player.css#url=#51.la#poster#api.php#file=#cnzz.com#baidu.com#.gif",
 
