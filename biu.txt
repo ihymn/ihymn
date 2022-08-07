@@ -1,7 +1,7 @@
 {"Home": [
-{"key":"APP","title":"APP调试","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"网页","title":"网页调试","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"采集","title":"采集调试","pic":"https://epg.112114.xyz/bingimg"},
+{"key":"APP","title":"主页","pic":"https://epg.112114.xyz/bingimg"},
+{"key":"网页","title":"自定义","pic":"https://epg.112114.xyz/bingimg"},
+{"key":"采集","title":"采集站","pic":"https://epg.112114.xyz/bingimg"},
 {"key":"直播","title":"直播调试","pic":"https://epg.112114.xyz/bingimg"},
 {"key":"历史","title":"历史记录","pic":"https://epg.112114.xyz/bingimg"},
 {"key":"收藏","title":"我的收藏","pic":"https://epg.112114.xyz/bingimg"},
