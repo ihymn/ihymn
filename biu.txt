@@ -9,8 +9,10 @@
 ],
 
 "zhuyejiekou": [
+{"name":"9e国语","url": "http://vod.9e03.com/lvdou_api.php/v1.vod"},
+{"name":"美剧范","url":"http://ttzmz.net/api.php/v1.vod"},
+{"name":"美剧虫","url":"https://meijuchong.com/api.php/v1.vod"},
 {"name":"独播社","url":"http://35ys.cc/api.php/v1.vod"},
-{"name":"爱美剧","url":"https://meijuchong.com/api.php/v1.vod"},
 {"name":"天空影视","url":"https://www.tkys.tv/xgapp.php/v2/"},
 {"name":"段友影视","url":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
 {"name":"月儿影视","url":"https://yue52.xyz/api.php/v1.vod"},
@@ -26,7 +28,7 @@
 ],
 
 "zhujiexi":[
-{"name":"解析1","url":"https://json.iku.cool/api/?key=PtdtltAP3Yg9ftiEeB&url="},
+{"name":"解析1","url":"https://cache.json.icu/home/api?type=ys&uid=1862179&key=abhqzBCDEGLMNQT047&url="},
 {"name":"解析2","url":"http://103.40.240.46/jh/?url="},
 {"name":"解析3","url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=9105801&key=huwxFGILMOQSTUZ679&url="},
 {"name":"解析4","url":"https://jhjx.kuanjv.com/newky/?url="},
