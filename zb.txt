@@ -20,7 +20,6 @@ CCTV-17农业,http://111.20.33.93/PLTV/88888893/224/3221226198/index.m3u8
 CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV-8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8
 ##
-
 ##卫视##
 浙江卫视,http://111.20.33.93/TVOD/88888893/224/3221226199/index.m3u8
 江苏卫视,http://111.20.33.93/TVOD/88888893/224/3221226200/index.m3u8
@@ -56,7 +55,6 @@ CCTV-8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8
 西藏卫视,http://39.134.65.166/PLTV/88888888/224/3221225570/1.m3u8
 新疆卫视,http://111.63.117.13:6060/030000001000/G_XINJIANG/G_XINJIANG.m3u8
 ##
-
 ##体育## 
 CCTV风云足球,http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8
 CCTV央视台球,http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8
@@ -75,7 +73,6 @@ ELEVEN2,rtmp://59.124.75.138:1935/sat/tv741
 爱尔达体育1,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=112
 爱尔达体育2,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=111
 ##
-
 ##电影##
 CHC高清电影,http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
 CHC动作电影,http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
@@ -92,7 +89,6 @@ NewTV超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
 4K电影,http://182.151.211.171:808/hls/58/index.m3u8
 4K超电影,http://113.50.66.47:8104/live.rxip.sc96655.com/live/emdy4k_8000.m3u8
 ##
-
 ##台湾## 
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
@@ -114,7 +110,6 @@ TVBS欢乐,rtmp://59.124.75.138:1935/sat/tv421
 台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 台湾原住民,https://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 ##
-
 ##港澳## 
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
@@ -128,7 +123,6 @@ TVB J2,http://120.84.96.33:808/hls/86/index.m3u8
 澳视卫视,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 ##
-
 ##其他## 
 CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
@@ -146,7 +140,6 @@ SiTV极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u
 纯享4K,http://39.135.55.72:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 爱上4K,http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
 ##
-
 ##海外##
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 StingrayMusic,https://ott-linear-channels.stingray.com/hls/stirr/128.m3u8
