@@ -1,12 +1,11 @@
 {"Home": [
-{"key":"APP","title":"主页","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"网页","title":"自定义","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"采集","title":"采集站","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"直播","title":"直播调试","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"历史","title":"历史记录","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"收藏","title":"我的收藏","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"推送","title":"远程推送","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"待添加","title":"待添加","pic":"https://epg.112114.xyz/bingimg"}
+{"key":"采集","title":"七七资源","pic":"http://i.miaosu.bid/data/f_29406845.png"},
+{"key":"网页","title":"网页资源","pic":"http://i.miaosu.bid/data/f_77270578.png"},
+{"key":"APP","title":"APP资源","pic":"http://i.miaosu.bid/data/f_97291919.png"},
+{"key":"直播","title":"电视直播","pic":"http://i.miaosu.bid/data/f_23491177.png"},
+{"key":"历史","title":"历史","pic":"http://i.miaosu.bid/data/f_15389914.png"},
+{"key":"收藏","title":"收藏","pic":"http://i.miaosu.bid/data/f_33444579.png"},
+{"key":"推送","title":"推送","pic":"http://i.miaosu.bid/data/f_96824753.png"}
 ],
 
 "zhuyejiekou": [
