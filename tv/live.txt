@@ -345,6 +345,7 @@ NewTV超级电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225766/index.
 NewTV超级电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
 NewTV精品电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
+IPTV高清院线,http://home.111818.xyz:8888/udp/239.76.252.217:9000
 IPTV抗战剧场,http://119.39.128.18:88/hls/35/index.m3u8
 IPTV古装剧场,http://119.39.128.18:88/hls/36/index.m3u8
 IPTV经典剧场,http://119.39.128.18:88/hls/37/index.m3u8
@@ -425,6 +426,9 @@ CCTV 4K,http://lu1.cc/itv/php/cctv4k.php
 纯享4K,http://111.11.123.28:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
+电影4K,http://home.111818.xyz:8888/udp/239.76.252.217:9000
+电影4K,http://119.39.128.18:88/hls/34/index.m3u8
+连续剧4K,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 MUZZIK ZZ4000,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
